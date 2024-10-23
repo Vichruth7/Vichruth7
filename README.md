@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vichruth7
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Full stack develepmont
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ph.no: +91-7904815700
 - 😄 Pronouns: He
 - ⚡ Fun fact: It's all 0's and 1's.
